@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!" );
+    	// Main App
+        System.out.println( "ML Project In JAVA/JEE" );
     }
 }
